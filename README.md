@@ -4,3 +4,5 @@ In this study, I evaluated the performances of basketball players who played in 
 
 Data Set: [https://lnkd.in/dKJyuJaZ
 ](https://www.kaggle.com/datasets/orkunaktas/nba-players-stats-2324)
+
+![](ak.jpg)
